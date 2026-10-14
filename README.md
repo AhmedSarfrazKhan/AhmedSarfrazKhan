@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ahmed Sarfraz Khan
 
-<!--
-**AhmedSarfrazKhan/AhmedSarfrazKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO at [ONPOINT XS](https://onpointxs.com), an Odoo partner. I build and run the infrastructure behind business software: Odoo, AWS, Docker, CI/CD, and self-hosted LLM stacks. Based in Lahore, Pakistan.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Odoo:** implementation, custom modules, billing and integrations, deployment and hosting
+- **Cloud and DevOps:** AWS, Linux, Docker, CI/CD pipelines, infrastructure automation, monitoring
+- **AI infrastructure:** self-hosted LLM deployment, GPU orchestration, containerized microservices
+- **Mobile:** Flutter apps
+
+## Featured work
+
+- [SelfHostedLLMStack](https://github.com/AhmedSarfrazKhan/SelfHostedLLMStack): Ollama on CPU behind Authentik SSO, digest-pinned images and models, full-stack CI on every PR, restic backups
+
+## Work with me
+
+- Odoo and infrastructure projects: [onpointxs.com](https://onpointxs.com)
+- Freelance cloud/DevOps: Upwork (add your profile link)
+- Contact: add your preferred email or LinkedIn here
